@@ -7914,7 +7914,7 @@ react-dev-utils@^9.0.3:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@^0.0.0-8d5403877:
+react-dom@0.0.0-8d5403877:
   version "0.0.0-8d5403877"
   resolved "https://repo.forge.lmig.com/api/npm/npm/react-dom/-/react-dom-0.0.0-8d5403877.tgz#3b73989b72529bbac3a6b4d7651cf484843f3529"
   integrity sha1-O3OYm3JSm7rDprTXZRz0hIQ/NSk=
@@ -7995,7 +7995,7 @@ react-scripts@3.1.1:
   optionalDependencies:
     fsevents "2.0.7"
 
-react@^0.0.0-8d5403877:
+react@0.0.0-8d5403877:
   version "0.0.0-8d5403877"
   resolved "https://repo.forge.lmig.com/api/npm/npm/react/-/react-0.0.0-8d5403877.tgz#384427c516acf913423a95d11d383689b7fc9e01"
   integrity sha1-OEQnxRas+RNCOpXRHTg2ibf8ngE=
